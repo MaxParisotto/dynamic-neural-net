@@ -1,1 +1,0 @@
-# dynamic-neural-net
