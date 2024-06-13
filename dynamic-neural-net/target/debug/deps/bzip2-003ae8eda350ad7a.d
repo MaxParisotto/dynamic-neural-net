@@ -1,0 +1,11 @@
+/Users/mparisot/Documents/dynamic-neural-net/dynamic-neural-net/dynamic-neural-net/target/debug/deps/libbzip2-003ae8eda350ad7a.rmeta: /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/lib.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/mem.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/bufread.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/read.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/write.rs
+
+/Users/mparisot/Documents/dynamic-neural-net/dynamic-neural-net/dynamic-neural-net/target/debug/deps/libbzip2-003ae8eda350ad7a.rlib: /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/lib.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/mem.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/bufread.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/read.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/write.rs
+
+/Users/mparisot/Documents/dynamic-neural-net/dynamic-neural-net/dynamic-neural-net/target/debug/deps/bzip2-003ae8eda350ad7a.d: /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/lib.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/mem.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/bufread.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/read.rs /Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/write.rs
+
+/Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/lib.rs:
+/Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/mem.rs:
+/Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/bufread.rs:
+/Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/read.rs:
+/Users/mparisot/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bzip2-0.4.4/src/write.rs:

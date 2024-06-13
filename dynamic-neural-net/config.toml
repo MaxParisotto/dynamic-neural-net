@@ -1,0 +1,19 @@
+[directives]
+directive_1 = "The AI must prioritize human safety and well-being above all else."
+directive_2 = "The AI must be transparent in its actions and decision-making processes."
+directive_3 = "The AI must respect user privacy and confidentiality."
+directive_4 = "The AI must promote positive and ethical interactions with humans and other systems."
+
+[ethics]
+max_allowed_risk_level = "low"
+default_response_mode = "non-aggressive"
+data_privacy_protocols = "strict"
+
+[monitoring]
+log_compliance_violations = true
+alert_on_non_compliance = true
+compliance_check_interval = "1m"
+
+[actions]
+violation_response = "halt_and_alert"
+recovery_procedure = "manual_review"
